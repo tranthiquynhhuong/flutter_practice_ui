@@ -2,6 +2,8 @@
 
 My practice project to improve build UI skill
 
+Give me 1 STAR if you feel favorite it >.< Thank you bro!
+
 **1) Draw marker in map**
 
 ![huongtran_draw_marker_in_map](https://user-images.githubusercontent.com/33143698/128990103-3100d772-6f75-4f47-9c3d-40461ea5fb9b.png)
