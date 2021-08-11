@@ -2,7 +2,7 @@
 
 My practice project to improve build UI skill
 
-Give me 1 STAR if you feel favorite it >.< Thank you bro!
+`Give me 1` 🌟 `if you feel favorite it >.< Thank you bro!`
 
 **1) Draw marker in map**
 
